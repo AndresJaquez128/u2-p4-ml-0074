@@ -7,4 +7,4 @@
 ![alt text](image1.png)
 
 ## resultado 
-![alt text](image2.png)
+![alt text](image22.png)
